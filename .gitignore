@@ -1,0 +1,16 @@
+data/
+outputs/
+
+*.csv
+*.parquet
+
+.ipynb_checkpoints/
+__pycache__/
+catboost_info/
+
+.env
+.venv/
+venv/
+
+.DS_Store
+Thumbs.db
